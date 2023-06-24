@@ -26,6 +26,8 @@ My Notes may disclose Non-personal data to third parties and/or allow third part
 
 AdMob - https://www.google.com/policies/privacy/
 
+StartApp - https://www.start.io/policy/privacy-policy/
+
 
 
 3. Location Data
